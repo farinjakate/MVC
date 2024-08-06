@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace _3_MVC_CRUD_UsingEFDBFirst
+namespace DemoMVC
 {
     public class MvcApplication : System.Web.HttpApplication
     {
